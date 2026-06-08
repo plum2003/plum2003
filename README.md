@@ -1,39 +1,51 @@
-# About me
+# Hi, I'm Jiale Li
 
+I'm currently at Central South University and learning to use programming and data tools for research work.
 
-## Here are some ideas to get you started:
+My current focus:
 
-- 🔭 I’m currently working on **Central South University**.
-- 🌱 I’m currently learning **R**.
-- 👯 I’m looking to collaborate on medical research.
-- 🤔 I’m looking for help with the use of R.
-- 💬 Ask me about *learning*.
-- 📫 How to reach me: WeChat public account：进无止境的樂
-- ⚡ Fun fact: everything.
+- Medical research support
+- R for data analysis and visualization
+- Python for automation and reproducible workflows
+- SQL basics for working with structured data
+- Open-source documentation and beginner-friendly contributions
 
-> 2025.6.12
+## What I'm Working On
 
-Shall I compare thee to a summer's day? [^1]
+- Building a clearer personal GitHub portfolio
+- Practicing GitHub workflows through small public repositories
+- Learning R step by step for research and data analysis
+- Looking for small open-source tasks where I can help with documentation, examples, testing, or research-related workflows
 
-[^1]:莎翁.
+## Skills I'm Developing
 
-- [ ] Update the website
-- [ ] Contact the media
+| Area | Current Focus |
+| --- | --- |
+| Data analysis | R, Python, SQL |
+| Research workflow | Literature organization, reproducible notes, data summaries |
+| Open source | README improvement, documentation, issue reproduction, beginner PRs |
+| Communication | Clear technical writing in English and Chinese |
 
-That is so funny! :joy:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+## Open Source Contribution Interests
 
-<details>
-<summary>My top languages</summary>
+I'm especially interested in tasks related to:
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| R         |
-|     2| Python    |
-|     3| SQL       |
+- Documentation cleanup
+- README restructuring
+- Example improvement
+- Broken-link checks
+- Beginner-friendly testing
+- R / Python learning projects
+- Medical or life-science research tools
 
-</details>
+## Current GitHub Setup
+
+- Profile: https://github.com/plum2003
+- Personal site repository: https://github.com/plum2003/plum2003.github.io
+- Practice repository: https://github.com/plum2003/Hello-World-2003
+
+## Contact
+
+- GitHub: [plum2003](https://github.com/plum2003)
+- Affiliation: Central South University
+
